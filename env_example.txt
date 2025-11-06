@@ -1,0 +1,9 @@
+# Configuração da API Google Gemini
+# Use a chave fornecida ou configure sua própria
+GEMINI_API_KEY=AIzaSyDQOhDIH4KGpVQsfhVVLU6o1kYSVpQDjj0
+USE_GEMINI=true
+GEMINI_MODEL=gemini-pro
+
+# Configuração da API OpenAI (opcional)
+OPENAI_API_KEY=sua_chave_openai_aqui
+OPENAI_MODEL=gpt-4
