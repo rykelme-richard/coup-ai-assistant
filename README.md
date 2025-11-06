@@ -1,4 +1,4 @@
-# 🎮 Sistema de IA para Vencer COUP
+# 🎮 Sistema de IA para Vencer COUP (Em Desenvolvimento)
 
 Sistema de inteligência artificial que joga o jogo **Coup** e ajuda você a vencer usando análise de probabilidades, blefe estratégico e modelagem de oponentes.
 
