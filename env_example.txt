@@ -1,6 +1,6 @@
 # Configuração da API Google Gemini
 # Use a chave fornecida ou configure sua própria
-GEMINI_API_KEY=AIzaSyDQOhDIH4KGpVQsfhVVLU6o1kYSVpQDjj0
+GEMINI_API_KEY="SUA API KEY"
 USE_GEMINI=true
 GEMINI_MODEL=gemini-pro
 
